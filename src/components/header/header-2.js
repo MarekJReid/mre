@@ -115,7 +115,7 @@ function HeaderTwo() {
                         </div>
                         <div className="lg:col-span-3 col-span-6">
                             <div className={`outer-box ${headerCss}`}>
-                                <ul className="language-list"></ul>
+                                <ul className="language-list" />
                                 <div className="offcanvas-area">
                                     <div className="offcanvas">
                                         <button
